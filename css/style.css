@@ -1,0 +1,28 @@
+body { 
+  background: url(https://static.pexels.com/photos/66997/pexels-photo-66997.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 50px;
+}
+
+.centerd {
+  margin-top: 50px;
+  
+}
+
+.author {
+  margin-top: 50px;
+  color: white;
+  font-size: 35px;
+  
+}
+
+.quote {
+  color: white;
+  font-size: 50px;
+  margin-top: 80px;
+  font-style: italic;
+  
+}
